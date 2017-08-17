@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "694355365408",
+    "firebase_url": "https://dmsd-chat-app-f72fb.firebaseio.com",
+    "project_id": "dmsd-chat-app-f72fb",
+    "storage_bucket": "dmsd-chat-app-f72fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694355365408:android:627c26f72030e05f",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.webservices.dmsdchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694355365408-9nfk9pscd2ibehqbmqkpghthuaak91mt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sg.edu.rp.webservices.dmsdchatapp",
+            "certificate_hash": "0d98a73ac63c35e3057c8ae05256e83fd8d5df1a"
+          }
+        },
+        {
+          "client_id": "694355365408-8e1gelcfdleh227q0i1hiivkvkjb2ul6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE60UwK3zvs1OnztA8ookCEB1iU9BJOCs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694355365408-8e1gelcfdleh227q0i1hiivkvkjb2ul6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
